@@ -24,7 +24,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>zhiq liu (liziq)</b></sub></a>
       <br />
-      <sub><b>6951 words</b></sub>
+      <sub><b>7232 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/andihasan97"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/ac9578131f9d0bd877837b2ac604795d.png" />
@@ -75,7 +75,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>Furkan Karcıoğlu (krc440002)</b></sub></a>
       <br />
-      <sub><b>1783 words</b></sub>
+      <sub><b>1799 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/selyanlian17516"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15547677/medium/f9e760635fee6bdc359732233aea790d.jpeg" />
@@ -113,14 +113,21 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
       <sub><b>543 words</b></sub>
     </td>
     <td align="center" valign="top">
+      <a href="https://crowdin.com/profile/hassanowo013"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/16205550/medium/75073a2fde9eb6735fae539714cda4e1.jpeg" />
+        <br />
+        <sub><b>HASSAN OWO (hassanowo013)</b></sub></a>
+      <br />
+      <sub><b>285 words</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
       <a href="https://crowdin.com/profile/Marcus_Jeeves"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15930373/medium/64fdfbf36048d06fa800c60cfc455cba_default.png" />
         <br />
         <sub><b>Владислав Сухов (Marcus_Jeeves)</b></sub></a>
       <br />
       <sub><b>279 words</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/Tanya7z"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/14307200/medium/1f9dbd438be62b9ca369cb2220f413bd.jpg" />
         <br />

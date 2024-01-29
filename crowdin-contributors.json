@@ -79,8 +79,8 @@
     "id": "15757161",
     "username": "liziq",
     "name": "zhiq liu (liziq)",
-    "translated": 4088,
-    "approved": 2863,
+    "translated": 4104,
+    "approved": 3128,
     "picture": "https://crowdin-static.downloads.crowdin.com/avatar/15757161/medium/f3903c160404f095de68760f81609430.jpeg",
     "languages": [
       {
@@ -177,7 +177,7 @@
     "id": "12564628",
     "username": "krc440002",
     "name": "Furkan Karcıoğlu (krc440002)",
-    "translated": 1783,
+    "translated": 1799,
     "approved": 0,
     "picture": "https://crowdin-static.downloads.crowdin.com/avatar/12564628/medium/addb4132479fae98076ae2fa4ccb42a4_default.png",
     "languages": [
@@ -258,6 +258,20 @@
       {
         "id": "pt-PT",
         "name": "Portuguese"
+      }
+    ]
+  },
+  {
+    "id": "16205550",
+    "username": "hassanowo013",
+    "name": "HASSAN OWO (hassanowo013)",
+    "translated": 285,
+    "approved": 0,
+    "picture": "https://crowdin-static.downloads.crowdin.com/avatar/16205550/medium/75073a2fde9eb6735fae539714cda4e1.jpeg",
+    "languages": [
+      {
+        "id": "ar",
+        "name": "Arabic"
       }
     ]
   },
